@@ -1,0 +1,30 @@
+name: CurioTV
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: macos-26
+    timeout-minutes: 20
+    env:
+      DEVELOPER_DIR: /Applications/Xcode_26.2.app/Contents/Developer
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          persist-credentials: false
+      - name: Check public export
+        run: python3 Scripts/check_public_export.py --staged
+      - name: Test core
+        run: swift test
+      - name: Build Apple TV simulator app
+        run: >-
+          xcodebuild -project CurioTV.xcodeproj -scheme CurioTV
+          -destination 'generic/platform=tvOS Simulator'
+          -derivedDataPath "$RUNNER_TEMP/CurioTV-build"
+          CODE_SIGNING_ALLOWED=NO ARCHS=arm64 ONLY_ACTIVE_ARCH=YES build

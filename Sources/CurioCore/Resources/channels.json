@@ -1,0 +1,2227 @@
+{
+  "sourceURL": "https://thume.ca/2026/11/01/youtube-tier-list-2026/",
+  "attribution": "Channel selection and tiers by Tristan Hume",
+  "importedAt": "2026-11-07",
+  "channels": [
+    {
+      "id": "UCivA7_KLKWo43tFcCkFvydw",
+      "name": "Applied Science",
+      "tier": "S",
+      "url": "https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw",
+      "youtubeChannelID": "UCivA7_KLKWo43tFcCkFvydw",
+      "username": null,
+      "featuredVideo": {
+        "id": "NwhVJ7cv9B4",
+        "title": "See inside insects with an electron microscope and a femtosecond laser",
+        "channelID": "UCivA7_KLKWo43tFcCkFvydw",
+        "channelName": "Applied Science",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCworsKCR-Sx6R6-BnIjS2MA",
+      "name": "Clickspring",
+      "tier": "S",
+      "url": "https://www.youtube.com/channel/UCworsKCR-Sx6R6-BnIjS2MA",
+      "youtubeChannelID": "UCworsKCR-Sx6R6-BnIjS2MA",
+      "username": null,
+      "featuredVideo": {
+        "id": "XsmGHMic8vs",
+        "title": "A Guilloche Dial In Sterling Silver - Cutting Traditional Guilloché On The Straight-Line Engine #3",
+        "channelID": "UCworsKCR-Sx6R6-BnIjS2MA",
+        "channelName": "Clickspring",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCj1VqrHhDte54oLgPG4xpuQ",
+      "name": "Stuff Made Here",
+      "tier": "S",
+      "url": "https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ",
+      "youtubeChannelID": "UCj1VqrHhDte54oLgPG4xpuQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "RpslsMqPFWA",
+        "title": "I made an apple peel itself",
+        "channelID": "UCj1VqrHhDte54oLgPG4xpuQ",
+        "channelName": "Stuff Made Here",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCEOXxzW2vU0P-0THehuIIeg",
+      "name": "Captain Disillusion",
+      "tier": "S",
+      "url": "https://www.youtube.com/channel/UCEOXxzW2vU0P-0THehuIIeg",
+      "youtubeChannelID": "UCEOXxzW2vU0P-0THehuIIeg",
+      "username": null,
+      "featuredVideo": {
+        "id": "2yCjO-wRxyM",
+        "title": "SNL VFX Mystery | Quick D",
+        "channelID": "UCEOXxzW2vU0P-0THehuIIeg",
+        "channelName": "Captain Disillusion",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCg3qsVzHeUt5_cPpcRtoaJQ",
+      "name": "Kiwami Japan",
+      "tier": "S",
+      "url": "https://www.youtube.com/channel/UCg3qsVzHeUt5_cPpcRtoaJQ",
+      "youtubeChannelID": "UCg3qsVzHeUt5_cPpcRtoaJQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "pFG-nXUw6Ts",
+        "title": "sharpest Seawater kitchen knife in the world",
+        "channelID": "UCg3qsVzHeUt5_cPpcRtoaJQ",
+        "channelName": "Kiwami Japan",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCEIwxahdLz7bap-VDs9h35A",
+      "name": "Steve Mould",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A",
+      "youtubeChannelID": "UCEIwxahdLz7bap-VDs9h35A",
+      "username": null,
+      "featuredVideo": {
+        "id": "6gsZY_-kT3U",
+        "title": "This Device Turns Anything into a Suction Cup",
+        "channelID": "UCEIwxahdLz7bap-VDs9h35A",
+        "channelName": "Steve Mould",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC0-7PyfpOIJpNyi8WrHiyXA",
+      "name": "S3 | Science, Startups, & Stories",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UC0-7PyfpOIJpNyi8WrHiyXA",
+      "youtubeChannelID": "UC0-7PyfpOIJpNyi8WrHiyXA",
+      "username": null,
+      "featuredVideo": {
+        "id": "qNBEqnFt1aU",
+        "title": "No Nuclear Startup Has Ever Done This, Until Now | Valar Atomics",
+        "channelID": "UC0-7PyfpOIJpNyi8WrHiyXA",
+        "channelName": "S3 | Science, Startups, & Stories",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCAL3JXZSzSm8AlZyD3nQdBA",
+      "name": "Primitive Technology",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA",
+      "youtubeChannelID": "UCAL3JXZSzSm8AlZyD3nQdBA",
+      "username": null,
+      "featuredVideo": {
+        "id": "PXuV_YCt8g4",
+        "title": "Primitive Technology: 3 Iron Consolidation Experiments",
+        "channelID": "UCAL3JXZSzSm8AlZyD3nQdBA",
+        "channelName": "Primitive Technology",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCQnMw9GGDS3xO6fN5oae-4w",
+      "name": "Know Art",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UCQnMw9GGDS3xO6fN5oae-4w",
+      "youtubeChannelID": "UCQnMw9GGDS3xO6fN5oae-4w",
+      "username": null,
+      "featuredVideo": {
+        "id": "bp2IAlU53uw",
+        "title": "Why Centrifugal Fans SPEED UP When Blocked (Regular Fans Slow Down)",
+        "channelID": "UCQnMw9GGDS3xO6fN5oae-4w",
+        "channelName": "Know Art",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC06HVrkOL33D5lLnCPjr6NQ",
+      "name": "Breaking Taps",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UC06HVrkOL33D5lLnCPjr6NQ",
+      "youtubeChannelID": "UC06HVrkOL33D5lLnCPjr6NQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "GbcN0bPs-Ig",
+        "title": "I made tiny robot eyes",
+        "channelID": "UC06HVrkOL33D5lLnCPjr6NQ",
+        "channelName": "Breaking Taps",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCFhXFikryT4aFcLkLw2LBLA",
+      "name": "NileRed",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA",
+      "youtubeChannelID": "UCFhXFikryT4aFcLkLw2LBLA",
+      "username": null,
+      "featuredVideo": {
+        "id": "ID-K64Jk6JM",
+        "title": "Turning air into alcohol",
+        "channelID": "UCFhXFikryT4aFcLkLw2LBLA",
+        "channelName": "NileRed",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC26YLK0OEbLB3TCYxGh8xVQ",
+      "name": "Huygens Optics",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ",
+      "youtubeChannelID": "UC26YLK0OEbLB3TCYxGh8xVQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "TPyQI7bJo6Q",
+        "title": "Making a Deformable Mirror",
+        "channelID": "UC26YLK0OEbLB3TCYxGh8xVQ",
+        "channelName": "Huygens Optics",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCCWeRTgd79JL0ilH0ZywSJA",
+      "name": "AlphaPhoenix",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
+      "youtubeChannelID": "UCCWeRTgd79JL0ilH0ZywSJA",
+      "username": null,
+      "featuredVideo": {
+        "id": "o4TdHrMi6do",
+        "title": "A laser pointer at 2 billion fps makes the speed of light look... kinda weird",
+        "channelID": "UCCWeRTgd79JL0ilH0ZywSJA",
+        "channelName": "AlphaPhoenix",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCFtc3XdXgLFwhlDajMGK69w",
+      "name": "NightHawkInLight",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UCFtc3XdXgLFwhlDajMGK69w",
+      "youtubeChannelID": "UCFtc3XdXgLFwhlDajMGK69w",
+      "username": null,
+      "featuredVideo": {
+        "id": "z4_GxPHwqkA",
+        "title": "Perfect Aircrete, Kitchen Ingredients.",
+        "channelID": "UCFtc3XdXgLFwhlDajMGK69w",
+        "channelName": "NightHawkInLight",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCnZeeKO8qVdtkrA4-uKhtTw",
+      "name": "Animagraffs",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UCnZeeKO8qVdtkrA4-uKhtTw",
+      "youtubeChannelID": "UCnZeeKO8qVdtkrA4-uKhtTw",
+      "username": null,
+      "featuredVideo": {
+        "id": "tBN2o4rAt5A",
+        "title": "How a Trans-Atlantic Steam Ship Worked",
+        "channelID": "UCnZeeKO8qVdtkrA4-uKhtTw",
+        "channelName": "Animagraffs",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC0G7e3uCtTyKQy2vZbRaKxg",
+      "name": "Works By Design",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UC0G7e3uCtTyKQy2vZbRaKxg",
+      "youtubeChannelID": "UC0G7e3uCtTyKQy2vZbRaKxg",
+      "username": null,
+      "featuredVideo": {
+        "id": "-qUu8kIliy8",
+        "title": "Making the most pickproof lock yet",
+        "channelID": "UC0G7e3uCtTyKQy2vZbRaKxg",
+        "channelName": "Works By Design",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC3azLjQuz9s5qk76KEXaTvA",
+      "name": "suckerpinch",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UC3azLjQuz9s5qk76KEXaTvA",
+      "youtubeChannelID": "UC3azLjQuz9s5qk76KEXaTvA",
+      "username": null,
+      "featuredVideo": {
+        "id": "M1si1y5lvkk",
+        "title": "No one can force me to have a secure website!!!",
+        "channelID": "UC3azLjQuz9s5qk76KEXaTvA",
+        "channelName": "suckerpinch",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCDyZXmOevDAb6DHyUCwzVNg",
+      "name": "Joshua Bird",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UCDyZXmOevDAb6DHyUCwzVNg",
+      "youtubeChannelID": "UCDyZXmOevDAb6DHyUCwzVNg",
+      "username": null,
+      "featuredVideo": {
+        "id": "Ndftcft6XhU",
+        "title": "I Built a Drone With Only One Motor",
+        "channelID": "UCDyZXmOevDAb6DHyUCwzVNg",
+        "channelName": "Joshua Bird",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCYA1VjSKXgNVh03wjw_HSRA",
+      "name": "Dan Gelbart",
+      "tier": "A",
+      "url": "https://www.youtube.com/channel/UCYA1VjSKXgNVh03wjw_HSRA",
+      "youtubeChannelID": "UCYA1VjSKXgNVh03wjw_HSRA",
+      "username": null,
+      "featuredVideo": {
+        "id": "OuZjjActWmQ",
+        "title": "Unusual Shop Tips",
+        "channelID": "UCYA1VjSKXgNVh03wjw_HSRA",
+        "channelName": "Dan Gelbart",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "name": "Practical Engineering",
+      "tier": "B",
+      "url": "https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ",
+      "youtubeChannelID": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "Ku_ockR2t44",
+        "title": "The Mind-Blowing Flaw That Flooded New Orleans",
+        "channelID": "UCMOqf8ab-42UUQIdVoKwjlQ",
+        "channelName": "Practical Engineering",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCR1IuLEqb6UEA_zQ81kwXfg",
+      "name": "Real Engineering",
+      "tier": "B",
+      "url": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
+      "youtubeChannelID": "UCR1IuLEqb6UEA_zQ81kwXfg",
+      "username": null,
+      "featuredVideo": {
+        "id": "iGZsPFJuxc0",
+        "title": "How We Could Reach Proxima Centauri B in 20 Years",
+        "channelID": "UCR1IuLEqb6UEA_zQ81kwXfg",
+        "channelName": "Real Engineering",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCv_vLHiWVBh_FR9vbeuiY-A",
+      "name": "Historia Civilis",
+      "tier": "B",
+      "url": "https://www.youtube.com/channel/UCv_vLHiWVBh_FR9vbeuiY-A",
+      "youtubeChannelID": "UCv_vLHiWVBh_FR9vbeuiY-A",
+      "username": null,
+      "featuredVideo": {
+        "id": "R0wwuj0sTyY",
+        "title": "The Year Without a Summer (1816 to 1824)",
+        "channelID": "UCv_vLHiWVBh_FR9vbeuiY-A",
+        "channelName": "Historia Civilis",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCILl8ozWuxnFYXIe2svjHhg",
+      "name": "BPS.space",
+      "tier": "B",
+      "url": "https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg",
+      "youtubeChannelID": "UCILl8ozWuxnFYXIe2svjHhg",
+      "username": null,
+      "featuredVideo": {
+        "id": "G61T-5d9jiA",
+        "title": "Designing a Selfie Camera to Eject at Apogee",
+        "channelID": "UCILl8ozWuxnFYXIe2svjHhg",
+        "channelName": "BPS.space",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCV5vCi3jPJdURZwAOO_FNfQ",
+      "name": "The Thought Emporium",
+      "tier": "B",
+      "url": "https://www.youtube.com/channel/UCV5vCi3jPJdURZwAOO_FNfQ",
+      "youtubeChannelID": "UCV5vCi3jPJdURZwAOO_FNfQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "1sgsb-F8dCw",
+        "title": "Building a CT Scanner to prove a Furby has no soul",
+        "channelID": "UCV5vCi3jPJdURZwAOO_FNfQ",
+        "channelName": "The Thought Emporium",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCHsRtomD4twRf5WVHHk-cMw",
+      "name": "TierZoo",
+      "tier": "B",
+      "url": "https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw",
+      "youtubeChannelID": "UCHsRtomD4twRf5WVHHk-cMw",
+      "username": null,
+      "featuredVideo": {
+        "id": "xtnfcm-fxm4",
+        "title": "The Reptile Tier List",
+        "channelID": "UCHsRtomD4twRf5WVHHk-cMw",
+        "channelName": "TierZoo",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCwbyKKmjVdCpWzZZY-WnajA",
+      "name": "Excessive Overkill",
+      "tier": "B",
+      "url": "https://www.youtube.com/channel/UCwbyKKmjVdCpWzZZY-WnajA",
+      "youtubeChannelID": "UCwbyKKmjVdCpWzZZY-WnajA",
+      "username": null,
+      "featuredVideo": {
+        "id": "gqVJDHK5EjM",
+        "title": "Firelaser V2 part 1: Designing a New Pump",
+        "channelID": "UCwbyKKmjVdCpWzZZY-WnajA",
+        "channelName": "Excessive Overkill",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCVSHXNNBitaPd5lYz48--yg",
+      "name": "Tech Ingredients",
+      "tier": "B",
+      "url": "https://www.youtube.com/channel/UCVSHXNNBitaPd5lYz48--yg",
+      "youtubeChannelID": "UCVSHXNNBitaPd5lYz48--yg",
+      "username": null,
+      "featuredVideo": {
+        "id": "G1Syjh319VU",
+        "title": "We turned a household freezer into a high-speed blast chiller!",
+        "channelID": "UCVSHXNNBitaPd5lYz48--yg",
+        "channelName": "Tech Ingredients",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCXIkr0SRTnZO4_QpZozvCCA",
+      "name": "USCSB",
+      "tier": "B",
+      "url": "https://www.youtube.com/channel/UCXIkr0SRTnZO4_QpZozvCCA",
+      "youtubeChannelID": "UCXIkr0SRTnZO4_QpZozvCCA",
+      "username": null,
+      "featuredVideo": {
+        "id": "HmiQFYGc6C4",
+        "title": "Alarming Mistakes, Deadly Decisions: Fatal Fire at BP-Husky",
+        "channelID": "UCXIkr0SRTnZO4_QpZozvCCA",
+        "channelName": "USCSB",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC67gfx2Fg7K2NSHqoENVgwA",
+      "name": "Tom Stanton",
+      "tier": "B",
+      "url": "https://www.youtube.com/channel/UC67gfx2Fg7K2NSHqoENVgwA",
+      "youtubeChannelID": "UC67gfx2Fg7K2NSHqoENVgwA",
+      "username": null,
+      "featuredVideo": {
+        "id": "Co57SfcT-h0",
+        "title": "Supersonic Trebuchet",
+        "channelID": "UC67gfx2Fg7K2NSHqoENVgwA",
+        "channelName": "Tom Stanton",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC7E8-0Ou69hwScPW1_fQApA",
+      "name": "Sam Zeloof",
+      "tier": "B",
+      "url": "https://www.youtube.com/channel/UC7E8-0Ou69hwScPW1_fQApA",
+      "youtubeChannelID": "UC7E8-0Ou69hwScPW1_fQApA",
+      "username": null,
+      "featuredVideo": {
+        "id": "mvZ1dJuvenw",
+        "title": "Wire Bonding Basics - Manual Wedge Bonding ICs",
+        "channelID": "UC7E8-0Ou69hwScPW1_fQApA",
+        "channelName": "Sam Zeloof",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC96JVq-z0-0iHAkIkKp1_6w",
+      "name": "Demoscene High-Quality Videos",
+      "tier": "B",
+      "url": "https://www.youtube.com/channel/UC96JVq-z0-0iHAkIkKp1_6w",
+      "youtubeChannelID": "UC96JVq-z0-0iHAkIkKp1_6w",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UClqhvGmHcvWL9w3R48t9QXQ",
+      "name": "Engineering Explained",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UClqhvGmHcvWL9w3R48t9QXQ",
+      "youtubeChannelID": "UClqhvGmHcvWL9w3R48t9QXQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "0mU7p4_CbBA",
+        "title": "Ducati V4 Engines Are Different From Everything Else – Here’s Why",
+        "channelID": "UClqhvGmHcvWL9w3R48t9QXQ",
+        "channelName": "Engineering Explained",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCU5adS8d-YX7GbJcnH0x6uA",
+      "name": "SuperfastMatt",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCU5adS8d-YX7GbJcnH0x6uA",
+      "youtubeChannelID": "UCU5adS8d-YX7GbJcnH0x6uA",
+      "username": null,
+      "featuredVideo": {
+        "id": "IGyUNd7Ax0Y",
+        "title": "This Project Took Me Seven Years",
+        "channelID": "UCU5adS8d-YX7GbJcnH0x6uA",
+        "channelName": "SuperfastMatt",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCnZJt7yQw5IztVwe-Dscd-Q",
+      "name": "The Operations Room",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCnZJt7yQw5IztVwe-Dscd-Q",
+      "youtubeChannelID": "UCnZJt7yQw5IztVwe-Dscd-Q",
+      "username": null,
+      "featuredVideo": {
+        "id": "cxh4II6zN4s",
+        "title": "The Battle of Midway (1/2) - The Turning Point of the Pacific War - Animated",
+        "channelID": "UCnZJt7yQw5IztVwe-Dscd-Q",
+        "channelName": "The Operations Room",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCBa659QWEk1AI4Tg--mrJ2A",
+      "name": "Tom Scott",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A",
+      "youtubeChannelID": "UCBa659QWEk1AI4Tg--mrJ2A",
+      "username": null,
+      "featuredVideo": {
+        "id": "TumxO2glmPQ",
+        "title": "Why robots still can't pick strawberries",
+        "channelID": "UCBa659QWEk1AI4Tg--mrJ2A",
+        "channelName": "Tom Scott",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC8i-4EpLBXMzekETNXwcZjA",
+      "name": "Hyperspace Pirate",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UC8i-4EpLBXMzekETNXwcZjA",
+      "youtubeChannelID": "UC8i-4EpLBXMzekETNXwcZjA",
+      "username": null,
+      "featuredVideo": {
+        "id": "UXNcivV8JNw",
+        "title": "DIY Synthetic Fuel Part I - Making Syngas And A High Pressure Compressor",
+        "channelID": "UC8i-4EpLBXMzekETNXwcZjA",
+        "channelName": "Hyperspace Pirate",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCj--iMtToRO_cGG_fpmP5XQ",
+      "name": "Munro Live",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCj--iMtToRO_cGG_fpmP5XQ",
+      "youtubeChannelID": "UCj--iMtToRO_cGG_fpmP5XQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "CSJydnLzBAo",
+        "title": "Unitree G1 Actuator Teardown: How This Humanoid Robot Moves",
+        "channelID": "UCj--iMtToRO_cGG_fpmP5XQ",
+        "channelName": "Munro Live",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCKqKiBDpq9j29bXbBx0cfOw",
+      "name": "BuildWitt",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCKqKiBDpq9j29bXbBx0cfOw",
+      "youtubeChannelID": "UCKqKiBDpq9j29bXbBx0cfOw",
+      "username": null,
+      "featuredVideo": {
+        "id": "ywB-KBzHqtI",
+        "title": "How Copper Is Made — From Rock to 99.9% Pure Metal",
+        "channelID": "UCKqKiBDpq9j29bXbBx0cfOw",
+        "channelName": "BuildWitt",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCsrxrOtjmWnH5FJhJnkTRBg",
+      "name": "cubicmetre",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCsrxrOtjmWnH5FJhJnkTRBg",
+      "youtubeChannelID": "UCsrxrOtjmWnH5FJhJnkTRBg",
+      "username": null,
+      "featuredVideo": {
+        "id": "m7Icley8A_A",
+        "title": "Introducing the Orbital Gatling Cannon",
+        "channelID": "UCsrxrOtjmWnH5FJhJnkTRBg",
+        "channelName": "cubicmetre",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCbbQalJ4OaC0oQ0AqRaOJ9g",
+      "name": "Map Men",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCbbQalJ4OaC0oQ0AqRaOJ9g",
+      "youtubeChannelID": "UCbbQalJ4OaC0oQ0AqRaOJ9g",
+      "username": null,
+      "featuredVideo": {
+        "id": "hX21ctsGhNc",
+        "title": "Why a Language Map of the World is Impossible",
+        "channelID": "UCbbQalJ4OaC0oQ0AqRaOJ9g",
+        "channelName": "Map Men",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "name": "Hacksmith Industries",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muoxQ",
+      "youtubeChannelID": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "qgTfVQaHW5A",
+        "title": "We Went PRO in BATTLEBOTS…Were We Ready?",
+        "channelID": "UCjgpFI5dU-D1-kh9H1muoxQ",
+        "channelName": "Hacksmith Industries",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "name": "The Action Lab",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UC1VLQPn9cYSqx8plbk9RxxQ",
+      "youtubeChannelID": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "G6pTelud5-E",
+        "title": "I Broke The Angle of Repose",
+        "channelID": "UC1VLQPn9cYSqx8plbk9RxxQ",
+        "channelName": "The Action Lab",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
+      "name": "Technology Connections",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q",
+      "youtubeChannelID": "UCy0tKL1T7wFoYcxCe0xjN6Q",
+      "username": null,
+      "featuredVideo": {
+        "id": "JzClLWL-Eys",
+        "title": "Desiccant dehumidifiers are fascinating... but not for everyone",
+        "channelID": "UCy0tKL1T7wFoYcxCe0xjN6Q",
+        "channelName": "Technology Connections",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCW5OrUZ4SeUYkUg1XqcjFYA",
+      "name": "GeoWizard",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCW5OrUZ4SeUYkUg1XqcjFYA",
+      "youtubeChannelID": "UCW5OrUZ4SeUYkUg1XqcjFYA",
+      "username": null,
+      "featuredVideo": {
+        "id": "q6hSUH9FKdY",
+        "title": "Blindfolded and Stranded! Can I find my way home using no map, compass or main roads?",
+        "channelID": "UCW5OrUZ4SeUYkUg1XqcjFYA",
+        "channelName": "GeoWizard",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC7Ay_bxnYWSS9ZDPpqAE1RQ",
+      "name": "The Intel Report",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UC7Ay_bxnYWSS9ZDPpqAE1RQ",
+      "youtubeChannelID": "UC7Ay_bxnYWSS9ZDPpqAE1RQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "vw63IoVD9mk",
+        "title": "How The US Navy Became The Best In The World At Damage Control In WW2 (No AI)",
+        "channelID": "UC7Ay_bxnYWSS9ZDPpqAE1RQ",
+        "channelName": "The Intel Report",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCXh9mHdcBD-3aGCiECZMP1Q",
+      "name": "Not An Engineer",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCXh9mHdcBD-3aGCiECZMP1Q",
+      "youtubeChannelID": "UCXh9mHdcBD-3aGCiECZMP1Q",
+      "username": null,
+      "featuredVideo": {
+        "id": "BMCxCuTc1MA",
+        "title": "What if angles were metric?",
+        "channelID": "UCXh9mHdcBD-3aGCiECZMP1Q",
+        "channelName": "Not An Engineer",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCy6Q9UCG7Wa-N7nht2BFrHA",
+      "name": "CSI Starbase",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCy6Q9UCG7Wa-N7nht2BFrHA",
+      "youtubeChannelID": "UCy6Q9UCG7Wa-N7nht2BFrHA",
+      "username": null,
+      "featuredVideo": {
+        "id": "Cu16K_AMuaY",
+        "title": "What Makes Starship's Water Deluge System So Unique??",
+        "channelID": "UCy6Q9UCG7Wa-N7nht2BFrHA",
+        "channelName": "CSI Starbase",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCV0t1y4h_6-2SqEpXBXgwFQ",
+      "name": "AngeTheGreat",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCV0t1y4h_6-2SqEpXBXgwFQ",
+      "youtubeChannelID": "UCV0t1y4h_6-2SqEpXBXgwFQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "sUdnJTC2w9I",
+        "title": "Improving My Engine Sound Simulator With Real Data",
+        "channelID": "UCV0t1y4h_6-2SqEpXBXgwFQ",
+        "channelName": "AngeTheGreat",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCYO_jab_esuFRV4b17AJtAw",
+      "name": "3Blue1Brown",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+      "youtubeChannelID": "UCYO_jab_esuFRV4b17AJtAw",
+      "username": null,
+      "featuredVideo": {
+        "id": "d_qvLDhkg00",
+        "title": "A pretty reason why Gaussian + Gaussian = Gaussian",
+        "channelID": "UCYO_jab_esuFRV4b17AJtAw",
+        "channelName": "3Blue1Brown",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC6DhSUKasPbBLCSdPcGBxww",
+      "name": "Chronova Engineering",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UC6DhSUKasPbBLCSdPcGBxww",
+      "youtubeChannelID": "UC6DhSUKasPbBLCSdPcGBxww",
+      "username": null,
+      "featuredVideo": {
+        "id": "0Gi5Z51KdUE",
+        "title": "Reinventing the Pencil Sharpener",
+        "channelID": "UC6DhSUKasPbBLCSdPcGBxww",
+        "channelName": "Chronova Engineering",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCU0wOR4RQA9L7ZBOeyQI20A",
+      "name": "Prop Department",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCU0wOR4RQA9L7ZBOeyQI20A",
+      "youtubeChannelID": "UCU0wOR4RQA9L7ZBOeyQI20A",
+      "username": null,
+      "featuredVideo": {
+        "id": "ID062k6AqMw",
+        "title": "Testing my Tesla Powered Jetboat at 50% Power",
+        "channelID": "UCU0wOR4RQA9L7ZBOeyQI20A",
+        "channelName": "Prop Department",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCHk0IYEDJxQGQ-nbd3yP_KA",
+      "name": "Joel Creates",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCHk0IYEDJxQGQ-nbd3yP_KA",
+      "youtubeChannelID": "UCHk0IYEDJxQGQ-nbd3yP_KA",
+      "username": null,
+      "featuredVideo": {
+        "id": "LDr5hlG1GBU",
+        "title": "I regret inventing Tank Boots",
+        "channelID": "UCHk0IYEDJxQGQ-nbd3yP_KA",
+        "channelName": "Joel Creates",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC66lPJ8u2N1i2Bh_TMaWagg",
+      "name": "Contraption Collection",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UC66lPJ8u2N1i2Bh_TMaWagg",
+      "youtubeChannelID": "UC66lPJ8u2N1i2Bh_TMaWagg",
+      "username": null,
+      "featuredVideo": {
+        "id": "M88jllt4klM",
+        "title": "My most complex fixture yet, but does it work? Baliscissors: Ep 33",
+        "channelID": "UC66lPJ8u2N1i2Bh_TMaWagg",
+        "channelName": "Contraption Collection",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCVveEFTOd6khhSXXnRhxJmg",
+      "name": "Fireball Tool",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCVveEFTOd6khhSXXnRhxJmg",
+      "youtubeChannelID": "UCVveEFTOd6khhSXXnRhxJmg",
+      "username": null,
+      "featuredVideo": {
+        "id": "3AScojcf2Yw",
+        "title": "I Built the Drill Press I've Always Wanted",
+        "channelID": "UCVveEFTOd6khhSXXnRhxJmg",
+        "channelName": "Fireball Tool",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCDllNYyUN4fK1r-Nwffp7og",
+      "name": "Lafayette Systems",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCDllNYyUN4fK1r-Nwffp7og",
+      "youtubeChannelID": "UCDllNYyUN4fK1r-Nwffp7og",
+      "username": null,
+      "featuredVideo": {
+        "id": "8wmpQ9hiQ1g",
+        "title": "Resin Printing a Supersonic Rocket Control System -- Form 4",
+        "channelID": "UCDllNYyUN4fK1r-Nwffp7og",
+        "channelName": "Lafayette Systems",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCASjdyu0y8XQ9qJnqxsKHnQ",
+      "name": "Tucker Gott",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCASjdyu0y8XQ9qJnqxsKHnQ",
+      "youtubeChannelID": "UCASjdyu0y8XQ9qJnqxsKHnQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "Ui7DCKI_upA",
+        "title": "No Way He Walked Away From This!!!",
+        "channelID": "UCASjdyu0y8XQ9qJnqxsKHnQ",
+        "channelName": "Tucker Gott",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC5NO8MgTQKHAWXp6z8Xl7yQ",
+      "name": "This Old Tony",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ",
+      "youtubeChannelID": "UC5NO8MgTQKHAWXp6z8Xl7yQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "Ia3Iieejyg8",
+        "title": "Over Center Mechanisms But Were Afraid To Ask!",
+        "channelID": "UC5NO8MgTQKHAWXp6z8Xl7yQ",
+        "channelName": "This Old Tony",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCje6-Yak9u1msy5l7sE9pBA",
+      "name": "Deconstructed",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCje6-Yak9u1msy5l7sE9pBA",
+      "youtubeChannelID": "UCje6-Yak9u1msy5l7sE9pBA",
+      "username": null,
+      "featuredVideo": {
+        "id": "tCHk2ZteXEo",
+        "title": "Medieval Siege Weapons Were More Than Just Catapults",
+        "channelID": "UCje6-Yak9u1msy5l7sE9pBA",
+        "channelName": "Deconstructed",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCW5i5rLbDiu9RhCEXj4BAZw",
+      "name": "Current Concept",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCW5i5rLbDiu9RhCEXj4BAZw",
+      "youtubeChannelID": "UCW5i5rLbDiu9RhCEXj4BAZw",
+      "username": null,
+      "featuredVideo": {
+        "id": "tkO7tsHPu10",
+        "title": "My robot is better than you at knife throwing",
+        "channelID": "UCW5i5rLbDiu9RhCEXj4BAZw",
+        "channelName": "Current Concept",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCiNLr9wX35KksK77mrQgxiw",
+      "name": "2swap",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCiNLr9wX35KksK77mrQgxiw",
+      "youtubeChannelID": "UCiNLr9wX35KksK77mrQgxiw",
+      "username": null,
+      "featuredVideo": {
+        "id": "kL9BTbIGxLg",
+        "title": "i’m so bad at billiards that i ended up in the hyperbolic plane",
+        "channelID": "UCiNLr9wX35KksK77mrQgxiw",
+        "channelName": "2swap",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCCJJNQIhS15ypcHqDfEPNXg",
+      "name": "Akiyuki Brick Channel",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCCJJNQIhS15ypcHqDfEPNXg",
+      "youtubeChannelID": "UCCJJNQIhS15ypcHqDfEPNXg",
+      "username": null,
+      "featuredVideo": {
+        "id": "EG9ISMjM-uQ",
+        "title": "LEGO Omnidirectional vehicle",
+        "channelID": "UCCJJNQIhS15ypcHqDfEPNXg",
+        "channelName": "Akiyuki Brick Channel",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC8aG3LDTDwNR1UQhSn9uVrw",
+      "name": "SethBling",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UC8aG3LDTDwNR1UQhSn9uVrw",
+      "youtubeChannelID": "UC8aG3LDTDwNR1UQhSn9uVrw",
+      "username": null,
+      "featuredVideo": {
+        "id": "mq7T5_xH24M",
+        "title": "1fps Atari 2600 Emulator in Vanilla Minecraft 1.13",
+        "channelID": "UC8aG3LDTDwNR1UQhSn9uVrw",
+        "channelName": "SethBling",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCG7yIWtVwcENg_ZS-nahg5g",
+      "name": "CNLohr",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UCG7yIWtVwcENg_ZS-nahg5g",
+      "youtubeChannelID": "UCG7yIWtVwcENg_ZS-nahg5g",
+      "username": null,
+      "featuredVideo": {
+        "id": "eIdHBDSQHyw",
+        "title": "How far can I broadcast LoRa packets WITHOUT a radio? - LoLRa",
+        "channelID": "UCG7yIWtVwcENg_ZS-nahg5g",
+        "channelName": "CNLohr",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC5miyvhPsWWyfTulnJ43koQ",
+      "name": "Pannen",
+      "tier": "C",
+      "url": "https://www.youtube.com/channel/UC5miyvhPsWWyfTulnJ43koQ",
+      "youtubeChannelID": "UC5miyvhPsWWyfTulnJ43koQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "t14ENrqlmuY",
+        "title": "SM64 1 Key TAS But You Can See Lakitu Filming It",
+        "channelID": "UC5miyvhPsWWyfTulnJ43koQ",
+        "channelName": "Pannen",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCUEzfzqf2fx3C1vs0MlgShA",
+      "name": "Edison Motors",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCUEzfzqf2fx3C1vs0MlgShA",
+      "youtubeChannelID": "UCUEzfzqf2fx3C1vs0MlgShA",
+      "username": null,
+      "featuredVideo": {
+        "id": "L1Yy-nsgBCM",
+        "title": "Unveiling Our Undisclosed Truck!",
+        "channelID": "UCUEzfzqf2fx3C1vs0MlgShA",
+        "channelName": "Edison Motors",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UChgAZxOWR0S3Q376oAodGjQ",
+      "name": "NHRL",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UChgAZxOWR0S3Q376oAodGjQ",
+      "youtubeChannelID": "UChgAZxOWR0S3Q376oAodGjQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "eVI9Ig3lq_o",
+        "title": "The Weirdest Robots to Ever Fight at NHRL",
+        "channelID": "UChgAZxOWR0S3Q376oAodGjQ",
+        "channelName": "NHRL",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCbguawtJlHjxXzdAskubQVg",
+      "name": "William Osman 2",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCbguawtJlHjxXzdAskubQVg",
+      "youtubeChannelID": "UCbguawtJlHjxXzdAskubQVg",
+      "username": null,
+      "featuredVideo": {
+        "id": "orrhkeQf0uo",
+        "title": "Pro's wanted $20,000 so I did it myself",
+        "channelID": "UCbguawtJlHjxXzdAskubQVg",
+        "channelName": "William Osman 2",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCHSI8erNrN6hs3sUK6oONLA",
+      "name": "ilmango",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCHSI8erNrN6hs3sUK6oONLA",
+      "youtubeChannelID": "UCHSI8erNrN6hs3sUK6oONLA",
+      "username": null,
+      "featuredVideo": {
+        "id": "eIcr2moY92I",
+        "title": "ATFC: Statue Of Liberty In TFC (Episode 50)",
+        "channelID": "UCHSI8erNrN6hs3sUK6oONLA",
+        "channelName": "ilmango",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "name": "Scott Manley",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A",
+      "youtubeChannelID": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "username": null,
+      "featuredVideo": {
+        "id": "vPOUfcpOSDg",
+        "title": "Boom Supersonic's SuperPower Jet Engine Is Real!",
+        "channelID": "UCxzC4EngIsMrPmbm6Nxvb-A",
+        "channelName": "Scott Manley",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCsoZN2VwWJbJ30y2e2sfmnw",
+      "name": "Team Just 'Cuz Robotics",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCsoZN2VwWJbJ30y2e2sfmnw",
+      "youtubeChannelID": "UCsoZN2VwWJbJ30y2e2sfmnw",
+      "username": null,
+      "featuredVideo": {
+        "id": "aOBztZqGC5A",
+        "title": "I Tried to Make a Flywheel Flipper - Here's What Went Wrong",
+        "channelID": "UCsoZN2VwWJbJ30y2e2sfmnw",
+        "channelName": "Team Just 'Cuz Robotics",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCPOTPYuDsKnXP9I-ph4yMgg",
+      "name": "Robert Cowan",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCPOTPYuDsKnXP9I-ph4yMgg",
+      "youtubeChannelID": "UCPOTPYuDsKnXP9I-ph4yMgg",
+      "username": null,
+      "featuredVideo": {
+        "id": "huZRMhoT-YE",
+        "title": "Cut just about anything in your shop - The Mini Monster",
+        "channelID": "UCPOTPYuDsKnXP9I-ph4yMgg",
+        "channelName": "Robert Cowan",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "name": "Veritasium",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
+      "youtubeChannelID": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "username": null,
+      "featuredVideo": {
+        "id": "AGglJehON5g",
+        "title": "The Perfect Battery Material Is Dangerous",
+        "channelID": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "channelName": "Veritasium",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC7m77muv30W3jWvmIrx68Gg",
+      "name": "Jake Hoffmann",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC7m77muv30W3jWvmIrx68Gg",
+      "youtubeChannelID": "UC7m77muv30W3jWvmIrx68Gg",
+      "username": null,
+      "featuredVideo": {
+        "id": "K-siFcoduFU",
+        "title": "Maximizer v  Pramheda - December World Champs NHRL",
+        "channelID": "UC7m77muv30W3jWvmIrx68Gg",
+        "channelName": "Jake Hoffmann",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCPUZCBNrduwUsw_MTW-sDxw",
+      "name": "DarkAero, Inc",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCPUZCBNrduwUsw_MTW-sDxw",
+      "youtubeChannelID": "UCPUZCBNrduwUsw_MTW-sDxw",
+      "username": null,
+      "featuredVideo": {
+        "id": "df1mDyIoQnI",
+        "title": "Testing the DarkAero 1 Engine Mount",
+        "channelID": "UCPUZCBNrduwUsw_MTW-sDxw",
+        "channelName": "DarkAero, Inc",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCo0-VCHchPIG3JtJlIQnFew",
+      "name": "DoshDoshington",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCo0-VCHchPIG3JtJlIQnFew",
+      "youtubeChannelID": "UCo0-VCHchPIG3JtJlIQnFew",
+      "username": null,
+      "featuredVideo": {
+        "id": "BUYSikP8Dyw",
+        "title": "How Hard is it to Beat NULLIUS — The Eternal Starter Base",
+        "channelID": "UCo0-VCHchPIG3JtJlIQnFew",
+        "channelName": "DoshDoshington",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCRSebxPEtpK5UpVCsJLq4mg",
+      "name": "Broken Link Robotics",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCRSebxPEtpK5UpVCsJLq4mg",
+      "youtubeChannelID": "UCRSebxPEtpK5UpVCsJLq4mg",
+      "username": null,
+      "featuredVideo": {
+        "id": "pG9VjHY6I84",
+        "title": "Two Overpowered Robots Fight in South Australia - Loft Part 10, Derive S Part 7",
+        "channelID": "UCRSebxPEtpK5UpVCsJLq4mg",
+        "channelName": "Broken Link Robotics",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "name": "Mark Rober",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg",
+      "youtubeChannelID": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "username": null,
+      "featuredVideo": {
+        "id": "h0EGCnBjTVk",
+        "title": "I Outsmarted Pro Car Thieves",
+        "channelID": "UCY1kMZp36IQSyNx_9h4mpCg",
+        "channelName": "Mark Rober",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC1LpsuAUaKoMzzJSEt5WImw",
+      "name": "Asianometry",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw",
+      "youtubeChannelID": "UC1LpsuAUaKoMzzJSEt5WImw",
+      "username": null,
+      "featuredVideo": {
+        "id": "SwYDxh3PQJ0",
+        "title": "The Little Ceiling Robots Inside a Semiconductor Fab",
+        "channelID": "UC1LpsuAUaKoMzzJSEt5WImw",
+        "channelName": "Asianometry",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCune493q6fu9nLH_JkwOUhw",
+      "name": "Diffraction Limited",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCune493q6fu9nLH_JkwOUhw",
+      "youtubeChannelID": "UCune493q6fu9nLH_JkwOUhw",
+      "username": null,
+      "featuredVideo": {
+        "id": "UvV2CH5il3Q",
+        "title": "Micro-Fabrication with a Fiber Tip – A Low-Cost 3D Micro Printing Method",
+        "channelID": "UCune493q6fu9nLH_JkwOUhw",
+        "channelName": "Diffraction Limited",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCcXhhVwCT6_WqjkEniejRJQ",
+      "name": "Wintergatan",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCcXhhVwCT6_WqjkEniejRJQ",
+      "youtubeChannelID": "UCcXhhVwCT6_WqjkEniejRJQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "GNmL6tFsrvc",
+        "title": "A new way to switch songs on the Marble Machine",
+        "channelID": "UCcXhhVwCT6_WqjkEniejRJQ",
+        "channelName": "Wintergatan",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCJLZe_NoiG0hT7QCX_9vmqw",
+      "name": "I did a thing",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCJLZe_NoiG0hT7QCX_9vmqw",
+      "youtubeChannelID": "UCJLZe_NoiG0hT7QCX_9vmqw",
+      "username": null,
+      "featuredVideo": {
+        "id": "-Ft5BrmUg1I",
+        "title": "I made a fully automatic hammer",
+        "channelID": "UCJLZe_NoiG0hT7QCX_9vmqw",
+        "channelName": "I did a thing",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCr1eXiD5uhg1HzOjV9AX-ew",
+      "name": "Failed EW Engineer",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCr1eXiD5uhg1HzOjV9AX-ew",
+      "youtubeChannelID": "UCr1eXiD5uhg1HzOjV9AX-ew",
+      "username": null,
+      "featuredVideo": {
+        "id": "vRa2pYS3Tds",
+        "title": "Defeat Drone Jammer Without Using Fiber Optic Cable PART II 33",
+        "channelID": "UCr1eXiD5uhg1HzOjV9AX-ew",
+        "channelName": "Failed EW Engineer",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC6IxnFzHofFJ5X2PycSMsww",
+      "name": "xkcd's What If?",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC6IxnFzHofFJ5X2PycSMsww",
+      "youtubeChannelID": "UC6IxnFzHofFJ5X2PycSMsww",
+      "username": null,
+      "featuredVideo": {
+        "id": "alkJ7xScBiw",
+        "title": "What if you set off a nuke in the Mariana Trench?",
+        "channelID": "UC6IxnFzHofFJ5X2PycSMsww",
+        "channelName": "xkcd's What If?",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC1XvxnHFtWruS9egyFasP1Q",
+      "name": "What about it!?",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC1XvxnHFtWruS9egyFasP1Q",
+      "youtubeChannelID": "UC1XvxnHFtWruS9egyFasP1Q",
+      "username": null,
+      "featuredVideo": {
+        "id": "A2Djq-90hzw",
+        "title": "Why Is SpaceX's Starship Losing Heat Tiles?",
+        "channelID": "UC1XvxnHFtWruS9egyFasP1Q",
+        "channelName": "What about it!?",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCwdVOry0oNF9WIe_3uCfz9Q",
+      "name": "Matt's Off Road Recovery",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCwdVOry0oNF9WIe_3uCfz9Q",
+      "youtubeChannelID": "UCwdVOry0oNF9WIe_3uCfz9Q",
+      "username": null,
+      "featuredVideo": {
+        "id": "FJVQ1dvbWBs",
+        "title": "I’m Not Happy…What Should I Do To The Morrvair?",
+        "channelID": "UCwdVOry0oNF9WIe_3uCfz9Q",
+        "channelName": "Matt's Off Road Recovery",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
+      "name": "Everyday Astronaut",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
+      "youtubeChannelID": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
+      "username": null,
+      "featuredVideo": {
+        "id": "7OxNZ-N_3vE",
+        "title": "The Underdogs Taking On SpaceX [Stoke Space 2025]",
+        "channelID": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
+        "channelName": "Everyday Astronaut",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCWizIdwZdmr43zfxlCktmNw",
+      "name": "Alec Steele",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCWizIdwZdmr43zfxlCktmNw",
+      "youtubeChannelID": "UCWizIdwZdmr43zfxlCktmNw",
+      "username": null,
+      "featuredVideo": {
+        "id": "CePYyjvjcd4",
+        "title": "My Dream Power Hammer Restoration! Part 11",
+        "channelID": "UCWizIdwZdmr43zfxlCktmNw",
+        "channelName": "Alec Steele",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC6107grRI4m0o2-emgoDnAA",
+      "name": "SmarterEveryDay",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA",
+      "youtubeChannelID": "UC6107grRI4m0o2-emgoDnAA",
+      "username": null,
+      "featuredVideo": {
+        "id": "vS6HEes8daw",
+        "title": "The PROBLEM with Capitalism - Smarter Every Day 316",
+        "channelID": "UC6107grRI4m0o2-emgoDnAA",
+        "channelName": "SmarterEveryDay",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCm9K6rby98W8JigLoZOh6FQ",
+      "name": "LockPickingLawyer",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ",
+      "youtubeChannelID": "UCm9K6rby98W8JigLoZOh6FQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "bGwnChxO6II",
+        "title": "[1629] Coolest Lock Tool Ever?",
+        "channelID": "UCm9K6rby98W8JigLoZOh6FQ",
+        "channelName": "LockPickingLawyer",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCuCkxoKLYO_EQ2GeFtbM_bw",
+      "name": "Half as Interesting",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw",
+      "youtubeChannelID": "UCuCkxoKLYO_EQ2GeFtbM_bw",
+      "username": null,
+      "featuredVideo": {
+        "id": "WFxnsU1hu9k",
+        "title": "Why Does the World’s Biggest Ship Exist?",
+        "channelID": "UCuCkxoKLYO_EQ2GeFtbM_bw",
+        "channelName": "Half as Interesting",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC4NNPgQ9sOkBjw6GlkgCylg",
+      "name": "Ben Vallack",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC4NNPgQ9sOkBjw6GlkgCylg",
+      "youtubeChannelID": "UC4NNPgQ9sOkBjw6GlkgCylg",
+      "username": null,
+      "featuredVideo": {
+        "id": "nqTtKK7YXZw",
+        "title": "The Keyboard Is Dead. Now What?",
+        "channelID": "UC4NNPgQ9sOkBjw6GlkgCylg",
+        "channelName": "Ben Vallack",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCiczXOhGpvoQGhOL16EZiTg",
+      "name": "CNC Kitchen",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg",
+      "youtubeChannelID": "UCiczXOhGpvoQGhOL16EZiTg",
+      "username": null,
+      "featuredVideo": {
+        "id": "KNnA05QYKB0",
+        "title": "This Resin 3D Printer Changed My Mind!",
+        "channelID": "UCiczXOhGpvoQGhOL16EZiTg",
+        "channelName": "CNC Kitchen",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCq2rNse2XX4Rjzmldv9GqrQ",
+      "name": "rctestflight",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCq2rNse2XX4Rjzmldv9GqrQ",
+      "youtubeChannelID": "UCq2rNse2XX4Rjzmldv9GqrQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "XGQdIdzxBf0",
+        "title": "Drone Motors on a Hydrofoil Surfboard",
+        "channelID": "UCq2rNse2XX4Rjzmldv9GqrQ",
+        "channelName": "rctestflight",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC1D3yD4wlPMico0dss264XA",
+      "name": "NileBlue",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC1D3yD4wlPMico0dss264XA",
+      "youtubeChannelID": "UC1D3yD4wlPMico0dss264XA",
+      "username": null,
+      "featuredVideo": {
+        "id": "xQjeGxWyaUY",
+        "title": "Making SuperBeer™",
+        "channelID": "UC1D3yD4wlPMico0dss264XA",
+        "channelName": "NileBlue",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCdJ9oJ2GUF8Vmb-G63ldGWg",
+      "name": "Reactions",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCdJ9oJ2GUF8Vmb-G63ldGWg",
+      "youtubeChannelID": "UCdJ9oJ2GUF8Vmb-G63ldGWg",
+      "username": null,
+      "featuredVideo": {
+        "id": "3wT9uNRk3AM",
+        "title": "Liquid Marbles are the Coolest Scientific Breakthrough I've Made (So Far)",
+        "channelID": "UCdJ9oJ2GUF8Vmb-G63ldGWg",
+        "channelName": "Reactions",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC6ktP3PLU5sAJxN9Rb0TALg",
+      "name": "Mike Shake",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC6ktP3PLU5sAJxN9Rb0TALg",
+      "youtubeChannelID": "UC6ktP3PLU5sAJxN9Rb0TALg",
+      "username": null,
+      "featuredVideo": {
+        "id": "xIMePuuFC7I",
+        "title": "I Built a Shockwave Cannon",
+        "channelID": "UC6ktP3PLU5sAJxN9Rb0TALg",
+        "channelName": "Mike Shake",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCfIqCzQJXvYj9ssCoHq327g",
+      "name": "How To Make Everything",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCfIqCzQJXvYj9ssCoHq327g",
+      "youtubeChannelID": "UCfIqCzQJXvYj9ssCoHq327g",
+      "username": null,
+      "featuredVideo": {
+        "id": "LddjTiXl6hQ",
+        "title": "Putting Ancient Drills to the Test! #shorts",
+        "channelID": "UCfIqCzQJXvYj9ssCoHq327g",
+        "channelName": "How To Make Everything",
+        "isShort": true
+      }
+    },
+    {
+      "id": "UC89AgkG34oooZubVt23wzFw",
+      "name": "JLaservideo",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC89AgkG34oooZubVt23wzFw",
+      "youtubeChannelID": "UC89AgkG34oooZubVt23wzFw",
+      "username": null,
+      "featuredVideo": {
+        "id": "3ZAgiviVee0",
+        "title": "Real Omnitrix Turns Me Into a Superhero! (Ben 10)",
+        "channelID": "UC89AgkG34oooZubVt23wzFw",
+        "channelName": "JLaservideo",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC5_HIscbiDZM0dMX-nCksuA",
+      "name": "Casual Navigation",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC5_HIscbiDZM0dMX-nCksuA",
+      "youtubeChannelID": "UC5_HIscbiDZM0dMX-nCksuA",
+      "username": null,
+      "featuredVideo": {
+        "id": "YNoZGpc607c",
+        "title": "How Ships Remove OIL From Dirty Water",
+        "channelID": "UC5_HIscbiDZM0dMX-nCksuA",
+        "channelName": "Casual Navigation",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCp_5PO66faM4dBFbFFBdPSQ",
+      "name": "bitluni",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCp_5PO66faM4dBFbFFBdPSQ",
+      "youtubeChannelID": "UCp_5PO66faM4dBFbFFBdPSQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "qMR3IXF2sWw",
+        "title": "Home made GPU escalated quickly",
+        "channelID": "UCp_5PO66faM4dBFbFFBdPSQ",
+        "channelName": "bitluni",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCEn3fRj2e0mpqYsijxnzayg",
+      "name": "Xyla Foxlin",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCEn3fRj2e0mpqYsijxnzayg",
+      "youtubeChannelID": "UCEn3fRj2e0mpqYsijxnzayg",
+      "username": null,
+      "featuredVideo": {
+        "id": "1F2MkVSviB8",
+        "title": "4 Days in the World's Tiniest Airplane* (Flying from Los Angeles to OSHKOSH!)",
+        "channelID": "UCEn3fRj2e0mpqYsijxnzayg",
+        "channelName": "Xyla Foxlin",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC1ZBQ-F-yktYD4m5AzM6pww",
+      "name": "Mustard",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC1ZBQ-F-yktYD4m5AzM6pww",
+      "youtubeChannelID": "UC1ZBQ-F-yktYD4m5AzM6pww",
+      "username": null,
+      "featuredVideo": {
+        "id": "5RtwFbSeV5Y",
+        "title": "When a MiG-25 fought an F-15",
+        "channelID": "UC1ZBQ-F-yktYD4m5AzM6pww",
+        "channelName": "Mustard",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCO8DQrSp5yEP937qNqTooOw",
+      "name": "Strange Parts",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw",
+      "youtubeChannelID": "UCO8DQrSp5yEP937qNqTooOw",
+      "username": null,
+      "featuredVideo": {
+        "id": "stc_mAbYoZw",
+        "title": "This 3D Printer Has No Motors! The Engineering Behind the LightMake L4",
+        "channelID": "UCO8DQrSp5yEP937qNqTooOw",
+        "channelName": "Strange Parts",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCRPUV6ArQ7AuQtK4123wNCw",
+      "name": "Roetz 4.0",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCRPUV6ArQ7AuQtK4123wNCw",
+      "youtubeChannelID": "UCRPUV6ArQ7AuQtK4123wNCw",
+      "username": null,
+      "featuredVideo": {
+        "id": "W6y97zggg24",
+        "title": "What If A 3D Printer Printed Tubes Instead?",
+        "channelID": "UCRPUV6ArQ7AuQtK4123wNCw",
+        "channelName": "Roetz 4.0",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCp68_FLety0O-n9QU6phsgw",
+      "name": "colinfurze",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCp68_FLety0O-n9QU6phsgw",
+      "youtubeChannelID": "UCp68_FLety0O-n9QU6phsgw",
+      "username": null,
+      "featuredVideo": {
+        "id": "kxs3yNjlzkg",
+        "title": "The Magnet Suspension Bike",
+        "channelID": "UCp68_FLety0O-n9QU6phsgw",
+        "channelName": "colinfurze",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC2C_jShtL725hvbm1arSV9w",
+      "name": "CGP Grey",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w",
+      "youtubeChannelID": "UC2C_jShtL725hvbm1arSV9w",
+      "username": null,
+      "featuredVideo": {
+        "id": "tlsU_YT9n_g",
+        "title": "We Could've Had the Industrial Revolution 2,000 Years Early",
+        "channelID": "UC2C_jShtL725hvbm1arSV9w",
+        "channelName": "CGP Grey",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCMWvGsHgzWtgyJvoKEQl-Bw",
+      "name": "DocJade",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCMWvGsHgzWtgyJvoKEQl-Bw",
+      "youtubeChannelID": "UCMWvGsHgzWtgyJvoKEQl-Bw",
+      "username": null,
+      "featuredVideo": {
+        "id": "4u-u11n9img",
+        "title": "Factorio \"Expert\" plays Sandustry",
+        "channelID": "UCMWvGsHgzWtgyJvoKEQl-Bw",
+        "channelName": "DocJade",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCJYJgj7rzsn0vdR7fkgjuIA",
+      "name": "styropyro",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCJYJgj7rzsn0vdR7fkgjuIA",
+      "youtubeChannelID": "UCJYJgj7rzsn0vdR7fkgjuIA",
+      "username": null,
+      "featuredVideo": {
+        "id": "woiTedSKPrk",
+        "title": "Green Lasers: What Can Certain mW Do?",
+        "channelID": "UCJYJgj7rzsn0vdR7fkgjuIA",
+        "channelName": "styropyro",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC3KEoMzNz8eYnwBC34RaKCQ",
+      "name": "Simone Giertz",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ",
+      "youtubeChannelID": "UC3KEoMzNz8eYnwBC34RaKCQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "0rXpncpkLcw",
+        "title": "This plant will die if I'm on my phone too much",
+        "channelID": "UC3KEoMzNz8eYnwBC34RaKCQ",
+        "channelName": "Simone Giertz",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCF3cDM_hQMtIEJvEW1BZugg",
+      "name": "Ivan Miranda",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCF3cDM_hQMtIEJvEW1BZugg",
+      "youtubeChannelID": "UCF3cDM_hQMtIEJvEW1BZugg",
+      "username": null,
+      "featuredVideo": {
+        "id": "K3FMVmAte3g",
+        "title": "Marble Clock Seconds Teleporter",
+        "channelID": "UCF3cDM_hQMtIEJvEW1BZugg",
+        "channelName": "Ivan Miranda",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC7yF9tV4xWEMZkel7q8La_w",
+      "name": "PeterSripol",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC7yF9tV4xWEMZkel7q8La_w",
+      "youtubeChannelID": "UC7yF9tV4xWEMZkel7q8La_w",
+      "username": null,
+      "featuredVideo": {
+        "id": "d9o09BHEOh8",
+        "title": "How To Lose a 1,000,000 dollar competition (DARPA lift Challenge)",
+        "channelID": "UC7yF9tV4xWEMZkel7q8La_w",
+        "channelName": "PeterSripol",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC9XjwCMWhes6R3jtOzZx50A",
+      "name": "Alexander the ok",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC9XjwCMWhes6R3jtOzZx50A",
+      "youtubeChannelID": "UC9XjwCMWhes6R3jtOzZx50A",
+      "username": null,
+      "featuredVideo": {
+        "id": "AazmxNs5kmE",
+        "title": "AIRS: The MX Peacekeeper's Perfect Blind Navigator",
+        "channelID": "UC9XjwCMWhes6R3jtOzZx50A",
+        "channelName": "Alexander the ok",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC2M2T4FSz1kSqNhhL-n9R9A",
+      "name": "Advanced Tinkering",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC2M2T4FSz1kSqNhhL-n9R9A",
+      "youtubeChannelID": "UC2M2T4FSz1kSqNhhL-n9R9A",
+      "username": null,
+      "featuredVideo": {
+        "id": "qT5XLkATzSI",
+        "title": "How Do You Purify the Most Reactive Metal on Earth?",
+        "channelID": "UC2M2T4FSz1kSqNhhL-n9R9A",
+        "channelName": "Advanced Tinkering",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCKLQPOyfOBf6SQQcPzSVMkg",
+      "name": "Rowow",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCKLQPOyfOBf6SQQcPzSVMkg",
+      "youtubeChannelID": "UCKLQPOyfOBf6SQQcPzSVMkg",
+      "username": null,
+      "featuredVideo": {
+        "id": "1JqUHO4qpl0",
+        "title": "How to cheaply solder to graphite by freezing metal, open sourced",
+        "channelID": "UCKLQPOyfOBf6SQQcPzSVMkg",
+        "channelName": "Rowow",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC06E4Y_-ybJgBUMtXx8uNNw",
+      "name": "TheBackyardScientist",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC06E4Y_-ybJgBUMtXx8uNNw",
+      "youtubeChannelID": "UC06E4Y_-ybJgBUMtXx8uNNw",
+      "username": null,
+      "featuredVideo": {
+        "id": "JSm7Tp8iv3o",
+        "title": "Could you Survive a Blast from the Worlds Biggest Vortex Cannon?",
+        "channelID": "UC06E4Y_-ybJgBUMtXx8uNNw",
+        "channelName": "TheBackyardScientist",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCu6vuGXK_WSVNf6Yg-OYfzw",
+      "name": "Hoarder Sam",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCu6vuGXK_WSVNf6Yg-OYfzw",
+      "youtubeChannelID": "UCu6vuGXK_WSVNf6Yg-OYfzw",
+      "username": null,
+      "featuredVideo": {
+        "id": "-zFgunAseb0",
+        "title": "A look at the winning drones from the DARPA Lift Challenge",
+        "channelID": "UCu6vuGXK_WSVNf6Yg-OYfzw",
+        "channelName": "Hoarder Sam",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCiygJF7wFHDeWGVvXkztUSA",
+      "name": "Cylo's Garage",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCiygJF7wFHDeWGVvXkztUSA",
+      "youtubeChannelID": "UCiygJF7wFHDeWGVvXkztUSA",
+      "username": null,
+      "featuredVideo": {
+        "id": "uvxDJ61e9xE",
+        "title": "Atomic resolution interferometric surface roughness metrology in the dining room",
+        "channelID": "UCiygJF7wFHDeWGVvXkztUSA",
+        "channelName": "Cylo's Garage",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCUHW94eEFW7hkUMVaZz4eDg",
+      "name": "minutephysics",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
+      "youtubeChannelID": "UCUHW94eEFW7hkUMVaZz4eDg",
+      "username": null,
+      "featuredVideo": {
+        "id": "4YvnVJRlQQs",
+        "title": "The Wavy Window Paradox",
+        "channelID": "UCUHW94eEFW7hkUMVaZz4eDg",
+        "channelName": "minutephysics",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCHJ-02TEGNS2GeD2wYetHSQ",
+      "name": "Luke Maximo Bell",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCHJ-02TEGNS2GeD2wYetHSQ",
+      "youtubeChannelID": "UCHJ-02TEGNS2GeD2wYetHSQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "kXqXWcw-hSI",
+        "title": "How I Won $750,000 With this Drone",
+        "channelID": "UCHJ-02TEGNS2GeD2wYetHSQ",
+        "channelName": "Luke Maximo Bell",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCivi_f1nniBzEOfKhRoN12Q",
+      "name": "Grind Hard Plumbing Co",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCivi_f1nniBzEOfKhRoN12Q",
+      "youtubeChannelID": "UCivi_f1nniBzEOfKhRoN12Q",
+      "username": null,
+      "featuredVideo": {
+        "id": "Dtl9vZOoQfE",
+        "title": "Monster Chopper First Drive!",
+        "channelID": "UCivi_f1nniBzEOfKhRoN12Q",
+        "channelName": "Grind Hard Plumbing Co",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCUQo7nzH1sXVpzL92VesANw",
+      "name": "DIY Perks",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw",
+      "youtubeChannelID": "UCUQo7nzH1sXVpzL92VesANw",
+      "username": null,
+      "featuredVideo": {
+        "id": "rqCt61ZbU10",
+        "title": "Building an LED SUPERNOVA!",
+        "channelID": "UCUQo7nzH1sXVpzL92VesANw",
+        "channelName": "DIY Perks",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCVS89U86PwqzNkK2qYNbk5A",
+      "name": "Allen Pan",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCVS89U86PwqzNkK2qYNbk5A",
+      "youtubeChannelID": "UCVS89U86PwqzNkK2qYNbk5A",
+      "username": null,
+      "featuredVideo": {
+        "id": "XzB5E36xczM",
+        "title": "Everything you know about Lightning is wrong",
+        "channelID": "UCVS89U86PwqzNkK2qYNbk5A",
+        "channelName": "Allen Pan",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCEgm-3RvRn4nCR-fGGVsfdQ",
+      "name": "Mattias Krantz",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCEgm-3RvRn4nCR-fGGVsfdQ",
+      "youtubeChannelID": "UCEgm-3RvRn4nCR-fGGVsfdQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "bvFIUGuEIk4",
+        "title": "Piano tech traumatized from opening my piano",
+        "channelID": "UCEgm-3RvRn4nCR-fGGVsfdQ",
+        "channelName": "Mattias Krantz",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCbCq5Y0WPGimG2jNXhoQxGw",
+      "name": "Atomic Frontier",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCbCq5Y0WPGimG2jNXhoQxGw",
+      "youtubeChannelID": "UCbCq5Y0WPGimG2jNXhoQxGw",
+      "username": null,
+      "featuredVideo": {
+        "id": "kk4AV3d4v3E",
+        "title": "What if sailing had no rules?",
+        "channelID": "UCbCq5Y0WPGimG2jNXhoQxGw",
+        "channelName": "Atomic Frontier",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC176GAQozKKjhz62H8u9vQQ",
+      "name": "Real Science",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC176GAQozKKjhz62H8u9vQQ",
+      "youtubeChannelID": "UC176GAQozKKjhz62H8u9vQQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "IH_uv4h2xYM",
+        "title": "This Slug Should Be Impossible",
+        "channelID": "UC176GAQozKKjhz62H8u9vQQ",
+        "channelName": "Real Science",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC_Ftxa2jwg8R4IWDw48uyBw",
+      "name": "Battleship New Jersey",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC_Ftxa2jwg8R4IWDw48uyBw",
+      "youtubeChannelID": "UC_Ftxa2jwg8R4IWDw48uyBw",
+      "username": null,
+      "featuredVideo": {
+        "id": "MIUZRcEWng0",
+        "title": "Using a Battleship As An Icebreaker",
+        "channelID": "UC_Ftxa2jwg8R4IWDw48uyBw",
+        "channelName": "Battleship New Jersey",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCUbDcUPed50Y_7KmfCXKohA",
+      "name": "James Bruton",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCUbDcUPed50Y_7KmfCXKohA",
+      "youtubeChannelID": "UCUbDcUPed50Y_7KmfCXKohA",
+      "username": null,
+      "featuredVideo": {
+        "id": "nfna15r4EXM",
+        "title": "World's First SCREW-BIKE",
+        "channelID": "UCUbDcUPed50Y_7KmfCXKohA",
+        "channelName": "James Bruton",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCQ9STd0zeHrrQGJQEuvhuTw",
+      "name": "Bismuth",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCQ9STd0zeHrrQGJQEuvhuTw",
+      "youtubeChannelID": "UCQ9STd0zeHrrQGJQEuvhuTw",
+      "username": null,
+      "featuredVideo": {
+        "id": "XFHMhNjtPmQ",
+        "title": "The Super Mario 64 120 star TAS Explained - Star 1",
+        "channelID": "UCQ9STd0zeHrrQGJQEuvhuTw",
+        "channelName": "Bismuth",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UC2avWDLN1EI3r1RZ_dlSxCw",
+      "name": "Integza",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC2avWDLN1EI3r1RZ_dlSxCw",
+      "youtubeChannelID": "UC2avWDLN1EI3r1RZ_dlSxCw",
+      "username": null,
+      "featuredVideo": {
+        "id": "udI2dWmwMUE",
+        "title": "I built a FLAP ENGINE (New Rotary Design)",
+        "channelID": "UC2avWDLN1EI3r1RZ_dlSxCw",
+        "channelName": "Integza",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCtHaxi4GTYDpJgMSGy7AeSw",
+      "name": "Michael Reeves",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw",
+      "youtubeChannelID": "UCtHaxi4GTYDpJgMSGy7AeSw",
+      "username": null,
+      "featuredVideo": {
+        "id": "u0KPa34PoZA",
+        "title": "good boyfriend",
+        "channelID": "UCtHaxi4GTYDpJgMSGy7AeSw",
+        "channelName": "Michael Reeves",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCdxTCCRnQgfi2vr2fZupYIQ",
+      "name": "Carl Bugeja",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCdxTCCRnQgfi2vr2fZupYIQ",
+      "youtubeChannelID": "UCdxTCCRnQgfi2vr2fZupYIQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "Jjg6-xT6rJg",
+        "title": "Building a Mini Vegas-Sphere",
+        "channelID": "UCdxTCCRnQgfi2vr2fZupYIQ",
+        "channelName": "Carl Bugeja",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCMZkAT1Vf7CPSNcTzZkK_qQ",
+      "name": "Think Flight",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCMZkAT1Vf7CPSNcTzZkK_qQ",
+      "youtubeChannelID": "UCMZkAT1Vf7CPSNcTzZkK_qQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "TTP4UgaNOGw",
+        "title": "I Accidentally Built a Semi-Autonomous Electric Airboat",
+        "channelID": "UCMZkAT1Vf7CPSNcTzZkK_qQ",
+        "channelName": "Think Flight",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCekQr9znsk2vWxBo3YiLq2w",
+      "name": "You Suck At Cooking",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
+      "youtubeChannelID": "UCekQr9znsk2vWxBo3YiLq2w",
+      "username": null,
+      "featuredVideo": {
+        "id": "7wnR5tIPyHs",
+        "title": "Crispy Hashbrowns - You Suck at Cooking (episode 161)",
+        "channelID": "UCekQr9znsk2vWxBo3YiLq2w",
+        "channelName": "You Suck At Cooking",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCCuoqzrsHlwv1YyPKLuMDUQ",
+      "name": "Jonathan Blow",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ",
+      "youtubeChannelID": "UCCuoqzrsHlwv1YyPKLuMDUQ",
+      "username": null,
+      "featuredVideo": {
+        "id": "LPdMNsL5MgI",
+        "title": "Compiler Q&A, September 2024",
+        "channelID": "UCCuoqzrsHlwv1YyPKLuMDUQ",
+        "channelName": "Jonathan Blow",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "name": "Two Minute Papers",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg",
+      "youtubeChannelID": "UCbfYPyITQ-7l4upoX8nvctg",
+      "username": null,
+      "featuredVideo": {
+        "id": "Py1I96F_R4Q",
+        "title": "Blender 5.0 Is Here - A Revolution…For Free!",
+        "channelID": "UCbfYPyITQ-7l4upoX8nvctg",
+        "channelName": "Two Minute Papers",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UClsFdM0HzTdF1JYoraQ0aUw",
+      "name": "Brick Experiment Channel",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UClsFdM0HzTdF1JYoraQ0aUw",
+      "youtubeChannelID": "UClsFdM0HzTdF1JYoraQ0aUw",
+      "username": null,
+      "featuredVideo": {
+        "id": "pcupjiD2xVk",
+        "title": "Building 10 Motorized Lego Doors",
+        "channelID": "UClsFdM0HzTdF1JYoraQ0aUw",
+        "channelName": "Brick Experiment Channel",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCu6mSoMNzHQiBIOCkHUa2Aw",
+      "name": "Cody'sLab",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCu6mSoMNzHQiBIOCkHUa2Aw",
+      "youtubeChannelID": "UCu6mSoMNzHQiBIOCkHUa2Aw",
+      "username": null,
+      "featuredVideo": {
+        "id": "QKdkqLVq04k",
+        "title": "Why Mercury Cant Be Absorbed With A Cloth",
+        "channelID": "UCu6mSoMNzHQiBIOCkHUa2Aw",
+        "channelName": "Cody'sLab",
+        "isShort": false
+      }
+    },
+    {
+      "id": "UCckETVOT59aYw80B36aP9vw",
+      "name": "Matthias Wandel",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCckETVOT59aYw80B36aP9vw",
+      "youtubeChannelID": "UCckETVOT59aYw80B36aP9vw",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UCZnQYVCCnNnwqiJRIYQuYdA",
+      "name": "Makercise",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCZnQYVCCnNnwqiJRIYQuYdA",
+      "youtubeChannelID": "UCZnQYVCCnNnwqiJRIYQuYdA",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "name": "Strange Loop",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw",
+      "youtubeChannelID": "UC_QIfHvN9auy2CoOdSfMWDw",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UCNk3CeLpCA0qIZsuzGl09cw",
+      "name": "Bruce Yeany",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCNk3CeLpCA0qIZsuzGl09cw",
+      "youtubeChannelID": "UCNk3CeLpCA0qIZsuzGl09cw",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UCkJh-DoB5TKX7qIV2cUGHcQ",
+      "name": "The Brick Wall",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCkJh-DoB5TKX7qIV2cUGHcQ",
+      "youtubeChannelID": "UCkJh-DoB5TKX7qIV2cUGHcQ",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UChWv6Pn_zP0rI6lgGt3MyfA",
+      "name": "AvE",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA",
+      "youtubeChannelID": "UChWv6Pn_zP0rI6lgGt3MyfA",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UC6vImVkvofpMUOlYt6LiRXA",
+      "name": "Keystone Science",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC6vImVkvofpMUOlYt6LiRXA",
+      "youtubeChannelID": "UC6vImVkvofpMUOlYt6LiRXA",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UC4mpLlHn0FOekNg05yCnkzQ",
+      "name": "Ferris",
+      "tier": "D",
+      "url": "https://www.youtube.com/c/ferrisstreamsstuff/videos",
+      "youtubeChannelID": "UC4mpLlHn0FOekNg05yCnkzQ",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UCnr29dxZB1vsbiHLBL7kfAQ",
+      "name": "The Taste Emporium",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCnr29dxZB1vsbiHLBL7kfAQ",
+      "youtubeChannelID": "UCnr29dxZB1vsbiHLBL7kfAQ",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UCUuMYw2l2UeWyTGYixYfRCA",
+      "name": "EvanAndKatelyn",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCUuMYw2l2UeWyTGYixYfRCA",
+      "youtubeChannelID": "UCUuMYw2l2UeWyTGYixYfRCA",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UCturmG-MSMEpG3zAo4H6Spw",
+      "name": "JAIRUS OF ALL",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCturmG-MSMEpG3zAo4H6Spw",
+      "youtubeChannelID": "UCturmG-MSMEpG3zAo4H6Spw",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UCdmAhiG8HQDlz8uyekw4ENw",
+      "name": "Inigo Quilez",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCdmAhiG8HQDlz8uyekw4ENw",
+      "youtubeChannelID": "UCdmAhiG8HQDlz8uyekw4ENw",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UCwjZLzqHYImv4oCJQcZ8Hig",
+      "name": "Daniel Schiffer",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCwjZLzqHYImv4oCJQcZ8Hig",
+      "youtubeChannelID": "UCwjZLzqHYImv4oCJQcZ8Hig",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UCEklP9iLcpExB8vp_fWQseg",
+      "name": "Makin' Stuff Look Good",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg",
+      "youtubeChannelID": "UCEklP9iLcpExB8vp_fWQseg",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UCWf3wmxbUr5TGmCjHaXV4bQ",
+      "name": "JL2579",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCWf3wmxbUr5TGmCjHaXV4bQ",
+      "youtubeChannelID": "UCWf3wmxbUr5TGmCjHaXV4bQ",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UCDbxvz-8MrderjIOyQi14Uw",
+      "name": "Roger Kilmanjaro",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCDbxvz-8MrderjIOyQi14Uw",
+      "youtubeChannelID": "UCDbxvz-8MrderjIOyQi14Uw",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "user/AndrewPPrice",
+      "name": "Blender Guru",
+      "tier": "D",
+      "url": "https://www.youtube.com/user/AndrewPPrice",
+      "youtubeChannelID": null,
+      "username": "AndrewPPrice",
+      "featuredVideo": null
+    },
+    {
+      "id": "UC6x7GwJxuoABSosgVXDYtTw",
+      "name": "I Like To Make Stuff",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UC6x7GwJxuoABSosgVXDYtTw",
+      "youtubeChannelID": "UC6x7GwJxuoABSosgVXDYtTw",
+      "username": null,
+      "featuredVideo": null
+    },
+    {
+      "id": "UCbNvfx3rYYxEopnRGxfu53Q",
+      "name": "Joseph's Machines",
+      "tier": "D",
+      "url": "https://www.youtube.com/channel/UCbNvfx3rYYxEopnRGxfu53Q",
+      "youtubeChannelID": "UCbNvfx3rYYxEopnRGxfu53Q",
+      "username": null,
+      "featuredVideo": null
+    }
+  ]
+}

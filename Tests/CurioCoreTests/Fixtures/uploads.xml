@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>This is the channel name, not a video title</title>
+  <entry>
+    <yt:videoId>abcDEF12_-3</yt:videoId>
+    <title>Science &amp; craft: &lt;inside&gt; a machine</title>
+    <published>2026-11-04T19:47:44+00:00</published>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=abcDEF12_-3"/>
+    <media:group><media:title>Must not override the Atom title</media:title></media:group>
+  </entry>
+  <entry>
+    <yt:videoId>shortVID123</yt:videoId>
+    <title>A short experiment</title>
+    <published>2026-11-03T10:00:00.123Z</published>
+    <link rel="alternate" href="https://www.youtube.com/shorts/shortVID123"/>
+  </entry>
+  <entry><yt:videoId>abcDEF12_-3</yt:videoId><title>Duplicate entry</title></entry>
+  <entry><yt:videoId>bad-id</yt:videoId><title>Invalid video ID</title></entry>
+</feed>
