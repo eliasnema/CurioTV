@@ -16,7 +16,7 @@ Create your own collections for different interests or people. Add channels by l
 
 Requires a Mac with Xcode 26 or newer, Swift 6.2 or newer, and a tvOS 26+ simulator or Apple TV. The exported app was validated with Xcode 27 and tvOS 27; see [validation](docs/validation.md).
 
-1. Open `CurioTV.xcodeproj` and select the **CurioTV** scheme.
+1. Clone [this repository](https://github.com/eliasnema/CurioTV), open `CurioTV.xcodeproj`, and select the **CurioTV** scheme.
 2. Select an Apple TV simulator and run. No server, API key, or account setup is needed for browsing.
 3. For a physical Apple TV, set your signing team and change the example bundle IDs (`com.example.CurioTV` and its UI-test target) to your own unique identifiers. Enable Developer Mode and pair the Apple TV with Xcode.
 4. Install the official YouTube app on your Apple TV and sign in there. The simulator normally has no YouTube app, so CurioTV shows a link and QR code when handoff is unavailable.

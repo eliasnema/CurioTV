@@ -1,6 +1,6 @@
 # CurioTV: taking a curated corner of YouTube to Apple TV
 
-Draft — repository link and publication pending.
+Draft article — source published at [eliasnema/CurioTV](https://github.com/eliasnema/CurioTV); article publication pending.
 
 [Andrej Karpathy's post about TristanTube](https://x.com/karpathy/status/2119114537442189652) sent me back to [Tristan Hume's YouTube tier list](https://thume.ca/2026/11/01/youtube-tier-list-2026/). I wanted that collection on the television: something I could browse with an Apple TV remote, pick a starting point, and watch.
 

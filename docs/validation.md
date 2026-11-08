@@ -1,5 +1,11 @@
 # Validation
 
+## GitHub publication — 8 November 2026
+
+The public [eliasnema/CurioTV](https://github.com/eliasnema/CurioTV) repository now contains the reviewed standalone app. The [first hosted CI run](https://github.com/eliasnema/CurioTV/actions/runs/42529435708) passed for `7c9c3af591c3bdf72de935093ff15f4240587ab8` on the configured macOS 26/Xcode 26.2 runner: exact tracked-file export scan, offline core tests, and unsigned Apple TV simulator compilation.
+
+The prior local test results below remain the evidence for remote UI behavior. No physical-TV installation or account/history test was performed during publication.
+
 ## 0.5.0 — Personal curation, 8 November 2026
 
 Validated the native collection editor with Xcode 27.0, Swift 6.2, and a fresh tvOS 27 Apple TV simulator at 1080p.

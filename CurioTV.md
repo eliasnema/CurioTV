@@ -2,9 +2,9 @@
 
 ## Current status
 
-- Status: Native personal channel curation implemented and validated locally. Not published or installed on physical TV.
+- Status: Published on GitHub with native personal curation and passing hosted CI. Not installed on physical TV.
 - Last updated: 2026-11-08.
-- Current objective: Completed named collections, custom channels, bulk editing, and per-tier channel-count limits while preserving existing saved data and the source collection.
+- Current objective: Published the reviewed standalone source at https://github.com/eliasnema/CurioTV; the bridge remains a separate experimental proposal.
 - Current branch or relevant revision: main; CurioTV 0.5.0, build 5.
 
 ## Completed
@@ -20,9 +20,11 @@
 - Validated 0.5 with sixteen core tests, two new native curation UI scenarios, two existing UI passes, one explicit external-feed skip, and unsigned device Release compilation.
 - Updated the curation guide, privacy notes, screenshots, and draft write-up.
 
+- Published the clean main branch at https://github.com/eliasnema/CurioTV and verified its first hosted export check, core tests, and unsigned simulator build.
+
 ## In progress
 
-- No required implementation remains for native channel curation. Hardware validation, hosted CI, and publication are separate future steps.
+- No required implementation or repository-publication work remains. Hardware validation and publication of the accompanying article are separate future steps.
 
 ## Decisions
 
@@ -57,18 +59,25 @@
 
 ## Blockers and risks
 
-- Publication and a GitHub remote remain pending.
 - The proposed bridge's account, service-policy, and media-access questions remain unresolved for public distribution.
 - The current variant has not been installed on physical hardware; iPhone keyboard handoff and official YouTube account/history behavior are outside the simulator test.
-- The configured GitHub-hosted CI has not run. Local validation used Xcode 27.
+- Hosted CI passed on the configured macOS 26/Xcode 26.2 runner. Physical-TV validation remains separate.
 
 ## Next actions
 
-- Review the write-up and choose a GitHub destination when ready to publish.
-- Run the configured hosted workflow after uploading; validate official-app handoff on a physical Apple TV for this exported variant.
+- Review the draft write-up before publishing an accompanying article.
+- Validate official-app handoff and iPhone keyboard use on a physical Apple TV for this exported variant.
 - Try Collections → New collection and set up personal groups. A physical-TV update remains separate from this local source delivery.
 
 ## Work log
+
+### 2026-11-08 — GitHub publication
+
+- Work completed: Created the public [eliasnema/CurioTV](https://github.com/eliasnema/CurioTV) repository and pushed main. Added origin and upstream tracking; the app and curation source are public.
+- Evidence: Scanned both source commits and all 129 distinct file versions before upload; the export guard passed. GitHub confirmed PUBLIC visibility and main as default branch. [Hosted validation run](https://github.com/eliasnema/CurioTV/actions/runs/42529435708) passed for source revision `7c9c3af591c3bdf72de935093ff15f4240587ab8`: export check, core tests, and unsigned tvOS simulator build.
+- Decisions: Published the reviewed standalone app only. The bridge remains a separate design proposal, and the accompanying article remains a draft. No account integration, private evidence, signing assets, or inherited private history was uploaded.
+- Learnings: The GitHub connector cannot create repositories or push local history; the authenticated GitHub CLI completed those operations.
+- Next actions: Review the accompanying write-up and perform hardware validation when requested.
 
 ### 2026-11-08 — Native curation validation
 
