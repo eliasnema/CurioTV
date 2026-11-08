@@ -66,6 +66,8 @@ struct ChannelDetailView: View {
                 Button("Open channel in YouTube", systemImage: "arrow.up.right") {
                     Task { await playback.openChannel(channel) }
                 }
+                NavigationLink("Add or move in collections", destination: ChannelCollectionsView(channel: channel))
+                    .accessibilityIdentifier("channel.curate")
             }
         }
         .focusSection()

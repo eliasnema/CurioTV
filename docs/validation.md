@@ -1,4 +1,27 @@
-# Export validation
+# Validation
+
+## 0.5.0 — Personal curation, 8 November 2026
+
+Validated the native collection editor with Xcode 27.0, Swift 6.2, and a fresh tvOS 27 Apple TV simulator at 1080p.
+
+| Check | Result |
+| --- | --- |
+| Offline core suite | 16 tests in 4 suites passed |
+| Complete remote UI suite | 4 passed, 1 external-RSS skip, 0 failures; command exited 0 |
+| Unsigned physical-tvOS Release build | Build succeeded; command exited 0 |
+| Public export and whitespace checks | Passed |
+
+The new UI cases passed group copying, a per-tier cap, rejection of a bulk change above that cap, persistence across relaunch, native keyboard entry of a custom channel name and URL, and a single-channel tier move. Existing saved-library, fallback, and settings cases also passed. Tier filtering and channel navigation completed before live upload selection explicitly skipped because YouTube RSS was unavailable. The complete suite took 127.0 seconds.
+
+Core coverage includes independent rankings, preservation of the bundled collection, atomic bulk limits, duplicate matching, copying limits, rename conflicts, delete/selection fallback, custom-link validation, feed-link parsing, curation round trips, and compatibility with the existing library format.
+
+Fresh simulator screenshots were visually reviewed. The UIKit hosting runtime warnings described in the initial validation below also appeared; no associated assertion failed. Earlier test iterations corrected horizontal remote navigation, nested dialog accessibility matches, native dialog button styling, and the Add button's focus area. The final run uses supported accessibility attributes to guide actual remote presses and disables verbose diagnostic collection.
+
+An independent native network probe received a Google consent page for a public @handle. It correctly returned the channel-only fallback rather than inventing a feed ID. A separate public-page fetch exposed the expected advertised RSS link, whose parser is tested offline. Canonical channel IDs avoid this lookup. Live handle discovery is therefore best effort, not a guaranteed network feature.
+
+This version was compiled but not installed on physical Apple TV. iPhone-to-TV keyboard handoff has not been hardware-tested. Google sign-in, account history, bridge playback, and hosted CI were not part of this validation.
+
+## 0.4.0 — Initial export, 7 November 2026
 
 Validated on 7 November 2026 using Xcode 27.0 (27A266a), the Swift 6.2 tools, and a tvOS 27 Apple TV 4K simulator at 1080p. The deployment target is tvOS 26. This public candidate uses the example bundle identifier `com.example.CurioTV`.
 

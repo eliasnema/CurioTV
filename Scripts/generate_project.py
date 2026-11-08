@@ -33,7 +33,7 @@ def configs(key, settings):
 
 common = dict(CLANG_ENABLE_MODULES="YES", CLANG_ENABLE_OBJC_ARC="YES", SDKROOT="appletvos",
               TVOS_DEPLOYMENT_TARGET="26.0", SWIFT_VERSION="6.0", SWIFT_STRICT_CONCURRENCY="complete")
-app_settings = dict(CODE_SIGN_STYLE="Automatic", CURRENT_PROJECT_VERSION="4", MARKETING_VERSION="0.4.0",
+app_settings = dict(CODE_SIGN_STYLE="Automatic", CURRENT_PROJECT_VERSION="5", MARKETING_VERSION="0.5.0",
                     ASSETCATALOG_COMPILER_APPICON_NAME="App Icon & Top Shelf Image",
                     GENERATE_INFOPLIST_FILE="YES", INFOPLIST_KEY_CFBundleDisplayName="CurioTV",
                     INFOPLIST_KEY_LSApplicationCategoryType="public.app-category.entertainment",

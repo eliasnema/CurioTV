@@ -21,7 +21,7 @@ struct SettingsView: View {
                 }
                 VStack(alignment: .leading, spacing: 24) {
                     Text("On this Apple TV").font(.title2.weight(.semibold))
-                    Text("Favorites, saved videos, and opened links are stored locally. CurioTV never requests your Google password or account tokens.")
+                    Text("Collections, channel rankings, favorites, saved videos, and opened links are stored locally. CurioTV never requests your Google password or account tokens.")
                         .font(.body).foregroundStyle(Palette.secondary)
                     HStack(spacing: 32) {
                         Button("Clear opened links", role: .destructive) { showClearConfirmation = true }
@@ -31,7 +31,7 @@ struct SettingsView: View {
                         Button("Reset local library", role: .destructive) { showResetConfirmation = true }
                             .confirmationDialog("Reset your CurioTV library?", isPresented: $showResetConfirmation, titleVisibility: .visible) {
                                 Button("Reset library", role: .destructive) { model.resetLibrary() }
-                            } message: { Text("This removes CurioTV favorites, saved videos, and opened links on this Apple TV.") }
+                            } message: { Text("This removes your collections, custom channels, rankings, favorites, saved videos, and opened links on this Apple TV. Tristan's bundled collection stays available.") }
                     }
                 }
                 Divider()
@@ -70,11 +70,11 @@ struct SettingsView: View {
         HStack(alignment: .top, spacing: 70) {
             VStack(alignment: .leading, spacing: 20) {
                 Text("A collection by Tristan Hume").font(.title3.weight(.semibold))
-                Text("All \(model.channels.count) channels and their S–D tiers come from “My YouTube tier list, six years later”, published on 1 November 2026. Scan to read the original list.")
+                Text("The original \(model.catalogChannels.count) channels and their S–D tiers come from “My YouTube tier list, six years later”, published on 1 November 2026. Your own collections keep separate rankings. Scan to read the original list.")
                     .font(.body).foregroundStyle(Palette.secondary)
                 Text("Independent app. Not affiliated with YouTube, Google, or the curator.")
                     .font(.caption).foregroundStyle(Palette.secondary)
-                Text("CurioTV 0.4.0").font(.caption2).foregroundStyle(Palette.secondary)
+                Text("CurioTV 0.5.0").font(.caption2).foregroundStyle(Palette.secondary)
             }
             if let url = URL(string: "https://thume.ca/2026/11/01/youtube-tier-list-2026/") { QRCodeView(url: url) }
         }

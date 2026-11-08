@@ -9,6 +9,22 @@ public struct Channel: Codable, Hashable, Identifiable, Sendable {
     public let username: String?
     public let featuredVideo: Video?
 
+    public init(id: String, name: String, tier: Tier, url: URL,
+                youtubeChannelID: String? = nil, username: String? = nil, featuredVideo: Video? = nil) {
+        self.id = id
+        self.name = name
+        self.tier = tier
+        self.url = url
+        self.youtubeChannelID = youtubeChannelID
+        self.username = username
+        self.featuredVideo = featuredVideo
+    }
+
+    public func ranked(_ tier: Tier) -> Channel {
+        Channel(id: id, name: name, tier: tier, url: url, youtubeChannelID: youtubeChannelID,
+                username: username, featuredVideo: featuredVideo)
+    }
+
     public var feedURL: URL? {
         var components = URLComponents(string: "https://www.youtube.com/feeds/videos.xml")
         if let youtubeChannelID {

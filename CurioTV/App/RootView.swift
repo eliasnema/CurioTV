@@ -16,6 +16,9 @@ struct RootView: View {
             Tab("My Library", systemImage: "bookmark") {
                 NavigationStack { LibraryView() }
             }
+            Tab("Collections", systemImage: "square.stack") {
+                NavigationStack { CollectionsView() }
+            }
             Tab("Settings", systemImage: "gearshape") {
                 NavigationStack { SettingsView() }
             }

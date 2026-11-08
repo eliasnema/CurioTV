@@ -4,7 +4,9 @@ A native Apple TV browser for a very good corner of YouTube.
 
 CurioTV brings the 156 channels in [Tristan Hume's November 2026 tier list](https://thume.ca/2026/11/01/youtube-tier-list-2026/) to a remote-friendly tvOS interface. Inspired by [Andrej Karpathy's TristanTube post](https://x.com/karpathy/status/2119114537442189652).
 
-Browse by tier, search channels and article picks, favorite channels, and save videos locally. The collection includes 136 suggested starting videos. Recent uploads use public channel feeds when available.
+Browse by tier, search channels and article picks, favorite channels, and save videos locally. The original collection includes 136 suggested starting videos. Recent uploads use public channel feeds when available.
+
+Create your own collections for different interests or people. Add channels by link or @handle, copy whole groups, move one or many channels between tiers, and set optional channel-count limits per tier. Edit inside CurioTV with the remote or iPhone keyboard. The original list stays intact. See the [curation guide](docs/curation.md).
 
 ![CurioTV Discover screen on the Apple TV simulator](docs/images/discover.png)
 
@@ -26,9 +28,9 @@ Favorites and saved links stay on this Apple TV. See [privacy](PRIVACY.md).
 | Location | Purpose |
 | --- | --- |
 | `CurioTV/` | SwiftUI tvOS app, remote focus, local library, YouTube handoff |
-| `Sources/CurioCore/` | Catalog, Atom parser, validated links, library persistence |
+| `Sources/CurioCore/` | Catalog, collection rules and caps, public-feed discovery, Atom parser, validated links, persistence |
 | `Tests/CurioCoreTests/` | Offline core checks and feed fixture |
-| `CurioTVUITests/` | Remote navigation, save/relaunch, handoff failure, settings |
+| `CurioTVUITests/` | Remote navigation, collection editing and limits, save/relaunch, handoff failure, settings |
 | `Scripts/` | Project/artwork generators, catalog import, public-export check |
 | `docs/possible-playback-bridge.md` | Separate, experimental design proposal only |
 | `docs/write-up-draft.md` | Short accompanying article draft |
@@ -39,6 +41,7 @@ The bridge proposal explores how in-app playback and account history might fit t
 
 - Public feeds can fail or return HTTP 404. The app reports that failure and keeps the bundled article pick and **Open channel in YouTube** action available.
 - Feed metadata does not include duration. The Shorts filter uses the Shorts link supplied by YouTube.
+- Feed discovery for custom handles is best effort. Collections and the shared local library do not provide parental access controls or separate account profiles.
 - Opening a YouTube link does not prove that the video played or entered watch history. Account selection, paused history, and playback are controlled by YouTube.
 - This is a source release candidate for building yourself; there is no App Store or TestFlight distribution.
 

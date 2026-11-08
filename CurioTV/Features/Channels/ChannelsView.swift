@@ -20,11 +20,12 @@ struct ChannelsView: View {
                 HStack(alignment: .firstTextBaseline) {
                     VStack(alignment: .leading, spacing: 10) {
                         Text("Find your next fascination.").font(.title.weight(.bold))
-                        Text("\(filteredChannels.count) of \(model.channels.count) channels · Selection by Tristan Hume")
+                        Text("\(filteredChannels.count) of \(model.channels.count) channels · \(model.activeCollection == nil ? "Selection by Tristan Hume" : model.collectionName)")
                             .font(.caption).foregroundStyle(Palette.secondary)
                     }
                     Spacer()
                 }
+                CollectionSwitcher()
                 HStack(spacing: 24) {
                     TextField("Search channels and article picks", text: $query)
                         .frame(maxWidth: 800)
@@ -43,6 +44,7 @@ struct ChannelsView: View {
                     ContentUnavailableView("No channels found", systemImage: "magnifyingglass",
                                            description: Text("Try a different search or clear your filters."))
                     Button("Clear filters") { query = ""; selectedTier = nil; favoritesOnly = false }
+                    if model.channels.isEmpty { NavigationLink("Add channels to this collection", destination: CollectionsView()) }
                 } else {
                     LazyVGrid(columns: [GridItem(.adaptive(minimum: 350), spacing: 36)], alignment: .leading, spacing: 36) {
                         ForEach(filteredChannels) { channel in ChannelCard(channel: channel) }

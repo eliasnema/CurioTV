@@ -4,7 +4,7 @@ import SwiftUI
 struct LibraryView: View {
     @Environment(AppModel.self) private var model
 
-    private var favorites: [Channel] { model.channels.filter { model.isFavorite($0) } }
+    private var favorites: [Channel] { model.allChannels.filter { model.isFavorite($0) } }
 
     var body: some View {
         ScrollView {

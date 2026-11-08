@@ -80,12 +80,7 @@ final class CurioTVUITests: XCTestCase {
     }
 
     private func focus(_ element: XCUIElement, direction: XCUIRemote.Button, file: StaticString = #filePath, line: UInt = #line) {
-        XCTAssertTrue(element.waitForExistence(timeout: 10), file: file, line: line)
-        for _ in 0..<14 {
-            if element.hasFocus { return }
-            remote.press(direction)
-        }
-        XCTFail("Could not focus \(element.identifier): \(element.label). \(XCUIApplication().debugDescription)", file: file, line: line)
+        RemoteFocus.move(to: element, preferred: direction, file: file, line: line)
     }
 
     private func capture(_ app: XCUIApplication, _ name: String) {
